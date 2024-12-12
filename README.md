@@ -93,6 +93,8 @@ Supply Chain Management (SCM) involves optimizing the flow of goods, from procur
 ## Conclusion
 We leveraged predictive modeling to identify delivery failures and reduce operational costs. Logistic Regression demonstrated better overall performance, but Naïve Bayes highlighted areas for improvement, such as capturing late deliveries. Geospatial data integration and weather analytics offer significant potential for enhancing supply chain strategies. Expanding the model with advanced techniques can further optimize delivery success rates.
 
+Video Recording of the Project - [Optimizing Supply Chain Efficiency with Geospatial Data](https://drive.google.com/file/d/19DIb1_j31EkT_lklWGH8XbYHOvy7LuOZ/view?usp=drive_link)
+
 ---
 
 ## Concepts Covered
