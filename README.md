@@ -1,4 +1,4 @@
-# Supply Chain Management (SCM) Predictive Analysis Project
+# Optimizing Supply Chain Efficiency with Geospatial Data
 
 ## Problem Statement
 Supply Chain Management (SCM) involves optimizing the flow of goods, from procurement to final delivery, to streamline operations, improve customer satisfaction, and reduce costs. Disruptions, particularly in last-mile delivery due to weather conditions, can lead to late or failed deliveries, negatively impacting revenue and customer trust. This project addresses these challenges by integrating predictive modeling and geospatial data to improve delivery success rates and enhance inventory management.
